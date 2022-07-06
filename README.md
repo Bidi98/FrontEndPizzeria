@@ -1,4 +1,4 @@
-# FrontEndPizzeria
+# Pizzeria FrontEnd
 
 Strona internetowa imitująca pizzerie.
 Funkcje:
