@@ -1,0 +1,22 @@
+.item-title {
+    color:red;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.count-button-wrapper {
+    display: flex;
+    align-items: center;
+    
+
+
+
+}
+.cart-list {
+    list-style: none;
+}
+.count-minus , .count-plus{
+    width: 1rem;
+    height: 1rem;
+    display: flex;
+    
+}

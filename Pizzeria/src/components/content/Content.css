@@ -1,0 +1,14 @@
+.content-main {
+    min-height: 80vh;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5% 0;
+}
+.pizza-main {
+    background-image: url(../../images/pizzaMain.jpg);
+  
+    padding: 5% 0;
+}

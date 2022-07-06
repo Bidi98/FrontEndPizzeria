@@ -1,0 +1,41 @@
+.main-cart {
+    min-height: 70vh;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.cart-title-wrapper{
+    display: flex;
+    justify-content: center;
+    border-bottom: solid;
+    padding: 1px;
+    padding-bottom: 1rem;
+    
+}
+.cart-items-wrapper {
+    padding: 1rem;
+}
+.address-wrapper {
+    border-top: solid;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+
+}
+.summary-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-top:solid;
+}
+.count-button-wrapper{
+    padding: 1rem;
+}
+.title-sum-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item-sum{
+    font-weight: bold;
+}
